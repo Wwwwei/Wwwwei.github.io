@@ -1,9 +1,15 @@
 ---
 layout: about
-title: 关于
+title: ABOUT
 reward: false
 ---
 
-### Will HAO's blog
+### CONTACT
+
+* email * : willlifeyo@163.com
+
+### LINKS
+
+* FUXI-LAB * : https://fuxi.163.com/en/tech.html#yhhx
 
 ---
