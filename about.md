@@ -20,6 +20,6 @@ Postgraduate Student from School of Computing, National University of Singapore
 
 ### LINKS
 
-* FUXI-LAB * : <https://fuxi.163.com/en/tech.html#yhhx>
+**FUXI-LAB** : <https://fuxi.163.com/en/tech.html#yhhx>
 
 ---

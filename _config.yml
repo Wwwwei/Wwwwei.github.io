@@ -23,7 +23,7 @@ show_excerpt: true
 
 github: https://github.com/willSai
 email: mailto:willlifeyo@163.com
-rss: true
+rss: false
 
 # --- 评论设置 ---
 # 开启评论，取消下面一行注解，并填写相应评论运营商提供的 id，目前仅支持来必力和 gitment
