@@ -8,7 +8,7 @@
       {% if page.title %}
         {{ page.title }}
       {% else %}
-        分类
+        Categories
       {% endif %}
     </title>
 
@@ -30,7 +30,7 @@
     <div class="tags-content">
       <div class="content">
         <div class="categories">
-          <h2>分类</h2>
+          <h2>Categories</h2>
           {% for category in site.categories %}
           <p id="{{category | first}}"><i class="fa fa-folder"></i> {{category | first}} (共 {{ category | last | size }} 篇)</p>
           <div class="articles">
@@ -48,7 +48,7 @@
         <hr>
 
         <div class="tags">
-          <h2>标签</h2>
+          <h2>Tags</h2>
           {% capture tags %}
             {% for tag in site.tags %}
               {{ tag[0] }}
@@ -57,7 +57,7 @@
           {% assign sortedtags = tags | split:' ' | sort %}
 
           {% for tag in sortedtags %}
-            <p id="{{ tag }}"><i class="fa fa-tag"></i> {{ tag }} (共 {{ site.tags[tag].size }} 篇)</p>
+            <p id="{{ tag }}"><i class="fa fa-tag"></i> {{ tag }} (Total {{ site.tags[tag].size }} articles)</p>
             <div class="articles">
               {% for post in site.tags[tag] %}
                 <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
