@@ -1,0 +1,56 @@
+sass:
+  style: compressed
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: "assets/img"
+    values:
+      image: true
+
+title: Will HAO's blog
+name: Will HAO
+description: When you say nothing at all
+url: https://github.com/willSai
+
+show_excerpt: true
+
+github: https://github.com/willSai
+email: mailto:willlifeyo@163.com
+rss: true
+
+# --- 评论设置 ---
+# 开启评论，取消下面一行注解，并填写相应评论运营商提供的 id，目前仅支持来必力和 gitment
+# comment: true
+# 来必力 uid
+# livere_uid:
+# gitment 用户主，即 GitHub 用户名
+# gitment_owner: willSai
+# GitHub pages 仓库名，如：showzeng.github.io
+# gitment_repo: willSai.github.io
+# gitment 提供的对应 id 和 secret
+# gitment_client_id:
+# gitment_secret:
+# --- 评论设置 ---
+
+remote_theme: showzeng/Minimalism
+
+plugins:
+  - rouge
+  - kramdown
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jemoji
+
+exclude:
+  - script
+  - docs
+  - vendor
+  - Gemfile
+  - Gemfile.lock
