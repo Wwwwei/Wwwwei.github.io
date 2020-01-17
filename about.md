@@ -4,22 +4,16 @@ title: ABOUT
 reward: false
 ---
 
-### ABOUT MESELF
-
-*DENG HAO*
-
-Senior Artificial Intelligence Researcher (September 2019~present)
-
-User Persona Group, NetEase Fuxi AI Lab, Hangzhou, China 
-
-Postgraduate Student from School of Computing, National University of Singapore
+*This site is powered by Minimalism Frame.*
 
 ### CONTACT
 
-**email** : willlifeyo@163.com
+**email** : denghao02@corp.netease.com
 
 ### LINKS
 
 **FUXI-LAB** : <https://fuxi.163.com/en/tech.html#yhhx>
+
+**Minimalism**: <https://github.com/showzeng/Minimalism>
 
 ---
