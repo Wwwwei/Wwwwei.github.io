@@ -20,7 +20,7 @@ defaults:
 # 下面填写你的博客标题
 title: Will HAO's blog
 # 下面填写你的网络常用名
-name: HAO DENG
+name: Shiwei Zhao 
 # 下面填写你的简介 用<br>换行（这点比较蛋疼，因为框架原本的设计是个“个性签名”，并没考虑内容很长的情况）
 description: Senior Artificial Intelligence Researcher (September 2019~present)<br>User Persona Group, NetEase Fuxi AI Lab, Hangzhou, China<br>Master of Computing, National University of Singapore
 # 你博客的 url 地址，比如：https://showzeng.github.io 或者是自定义的域名
