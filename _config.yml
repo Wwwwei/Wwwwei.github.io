@@ -18,7 +18,7 @@ defaults:
 
 # --- 网站信息设置 ---
 # 下面填写你的博客标题
-title: Will HAO's blog
+title: Wwwwei's blog
 # 下面填写你的网络常用名
 name: Shiwei Zhao 
 # 下面填写你的简介 用<br>换行（这点比较蛋疼，因为框架原本的设计是个“个性签名”，并没考虑内容很长的情况）
