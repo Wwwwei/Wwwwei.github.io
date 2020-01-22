@@ -22,9 +22,9 @@ title: Will HAO's blog
 # 下面填写你的网络常用名
 name: Shiwei Zhao 
 # 下面填写你的简介 用<br>换行（这点比较蛋疼，因为框架原本的设计是个“个性签名”，并没考虑内容很长的情况）
-description: Senior Artificial Intelligence Researcher (September 2019~present)<br>User Persona Group, NetEase Fuxi AI Lab, Hangzhou, China<br>Master of Computing, National University of Singapore
+description: Senior Artificial Intelligence Researcher (September 2019~present)<br>User Persona Group, NetEase Fuxi AI Lab, Hangzhou, China<br>Master of Computing, Zhejiang University
 # 你博客的 url 地址，比如：https://showzeng.github.io 或者是自定义的域名
-url: https://github.com/willSai
+# url: https://github.com/willSai
 # 在页尾的版权时间信息，比如：2016-2018，默认是 2018 年
 copyright_time: 2020
 # 标签页的 logo 及博客的头像，如果你想引用网络图片资源，就取消下面的注解，并填写图片资源的 url 地址
@@ -44,9 +44,9 @@ show_excerpt: true
 # 取消下面的注解，并填写相应的你要开启的社交链接
 #twitter: https://twitter.com/showzeng
 # weibo: https://weibo.com/varen5201314
-github: https://github.com/willSai
+github: https://github.com/Wwwwei
 # 邮件地址前面带上 mailto:
-email: mailto:denghao02@corp.netease.com
+email: mailto:zhaoshiwei@corp.netease.com
 # RSS 订阅
 rss: false
 # --- 社交链接 ---
